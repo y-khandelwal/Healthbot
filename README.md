@@ -1,0 +1,2 @@
+# Healthbot
+Constructed an outstanding business plan working in a team of three for an artificial intelligent and machine-learning virtual health assistant called Healthbot. I was responsible for strategic analysis which included strategy and risk, market analysis, competitive analysis, environmental analysis and SWOT analysis. Marketing plan, operational plan and personal plan were also created by me.
